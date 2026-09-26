@@ -1,0 +1,6 @@
+node_modules
+dist
+package-lock.json
+PANDAHELP_PROJECT_SPEC.md
+test-results
+playwright-report
